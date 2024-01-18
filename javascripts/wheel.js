@@ -94,9 +94,9 @@ var wheel = {
   segments: [],
   size: 290,
   spinStart: 0,
-  timerDelay: 10,
+  timerDelay: 15,
   timerHandle: 0,
-  upTime: 1000,
+  upTime: 3000,
 
   spin: function () {
     // Start the wheel only if it's not already spinning
