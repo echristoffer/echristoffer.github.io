@@ -90,13 +90,13 @@ var wheel = {
   colorCache: [],
   downTime: 2000,
   frames: 0,
-  maxSpeed: Math.PI / 16,
+  maxSpeed: Math.PI / 8,
   segments: [],
   size: 290,
   spinStart: 0,
-  timerDelay: 33,
+  timerDelay: 10,
   timerHandle: 0,
-  upTime: 1000,
+  upTime: 10000,
 
   spin: function () {
     // Start the wheel only if it's not already spinning
