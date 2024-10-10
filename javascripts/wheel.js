@@ -1,5 +1,5 @@
 var students = [
-  {name: 'Andreas'},
+  {name: 'Maja'},
   {name: 'Rami'},
   {name: 'Tao'},
   {name: 'Ludvig'},
