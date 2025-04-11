@@ -6,7 +6,8 @@ var students = [
   {name: 'Christoffer'},
   {name: 'Robin'},
   {name: 'Ivan'},
-  {name: 'Pontus'}
+  {name: 'Pontus'},
+  {name: 'Sandra'}
 ];
 
 var shuffle = function (o) {
